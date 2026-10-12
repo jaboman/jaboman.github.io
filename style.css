@@ -1570,6 +1570,10 @@ h2 em {
     padding-right: 13px;
   }
 
+  .hero-visual::before {
+    display: none;
+  }
+
   .hero-image-frame {
     aspect-ratio: 0.98;
   }
